@@ -1,0 +1,4 @@
+this is my fetch file
+int a, int b , int c
+c=a+b
+print (c)
